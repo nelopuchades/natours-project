@@ -2,6 +2,10 @@
 
 ![Natours Project](https://i.gyazo.com/123e0af5b232bdadc64b54f5a017f0de.jpg)
 
+## Description
+
+Natours Project is a landing page without interaction (no JS, just CSS) to practice advanced CSS together with the SASS preprocessor.
+
 ## GitHub Pages
 
 [Natours Project - GitHub Pages](https://neletdev.github.io/natours-project/)
