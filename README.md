@@ -11,6 +11,6 @@
 - [x] Add Stories Section (08-01-20)
 - [x] Add Booking Section (08-01-20)
 - [x] Add Footer (09-01-20)
-- [ ] Add Navigation
+- [x] Add Navigation (09-01-20)
 - [ ] Build CSS popup
 - [ ] Adapt Project to be Responsive
