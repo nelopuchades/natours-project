@@ -2,6 +2,10 @@
 
 ![Natours Project](https://i.gyazo.com/123e0af5b232bdadc64b54f5a017f0de.jpg)
 
+## GitHub Pages
+
+[Natours Project - GitHub Pages](https://neletdev.github.io/natours-project/)
+
 ## Project Roadmap
 
 - [x] Add Header (08-01-20)
