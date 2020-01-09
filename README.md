@@ -20,5 +20,5 @@ Natours Project is a landing page without interaction (no JS, just CSS) to pract
 - [x] Add Booking Section (08-01-20)
 - [x] Add Footer (09-01-20)
 - [x] Add Navigation (09-01-20)
-- [ ] Build CSS popup
+- [x] Build CSS popup (09-01-20)
 - [ ] Adapt Project to be Responsive
