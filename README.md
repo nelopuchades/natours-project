@@ -6,10 +6,6 @@
 
 Natours Project is a landing page without interaction (no JS, just CSS) to practice advanced CSS together with the SASS preprocessor.
 
-## GitHub Pages
-
-[Natours Project - GitHub Pages](https://neletdev.github.io/natours-project/)
-
 ## Project Roadmap
 
 - [x] Add Header (08-01-20)
